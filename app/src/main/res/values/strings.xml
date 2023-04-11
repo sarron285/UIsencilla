@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIsencilla</string>
+    <string name="edit_message">Enter a mesagge</string>
+    <string name="button_send">send</string>
+</resources>
